@@ -1,10 +1,9 @@
 import axios from "axios"
-
-
-import {NotificationContainer, NotificationManager} from 'react-notifications';
+import {NotificationManager} from 'react-notifications';
 
 // axios.defaults.baseURL="https://enterprise-api-staging.bitmama.io"
 export const createBtcAddress =async() => {
+  const apiLink = process.env.NODE_ENV === "development" ? "/v1/address" : "https://enterprise-api-staging.bitmama.io/v1/address"
   const body = {
     label:"Vault_Btc",
     coin:"tbtc"

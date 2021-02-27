@@ -2,6 +2,8 @@
 A vault can receive cryptocurrency like a normal wallet, but can also prevent stored crypto from being immediately withdrawn by adding optional security steps.
 This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 
+# Request for Bitmama Enterprise Token
+* email umar@bitmama.ng
 ## Tools For Development
 * [ReactJs](https://reactjs.org/)
 * [Axios](https://www.npmjs.com/package/axios)
@@ -22,7 +24,9 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * ``` npm run start ```
 
 ## Deploy on heroku
-* 
+* heroku create $APP_NAME --buildpack mars/create-react-app
+* git push heroku master/main
+* heroku open
 # Api (Bitmama Enterprise)
 * Api Url https://enterprise-api-staging.bitmama.io
 * [Documentation](http://developers.bitmama.io/)
