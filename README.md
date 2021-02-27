@@ -20,3 +20,7 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * cd project
 * ``` npm install ```
 * ``` npm run start ```
+
+# Api (Bitmama Enterprise)
+* Api Url https://enterprise-api-staging.bitmama.io
+* [Documentation](http://developers.bitmama.io/)
