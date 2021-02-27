@@ -16,6 +16,8 @@ function VaultCard(){
 
                    <img src={localStorage.getItem("qrCode")} class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="" />
                 </span></p> 
+                <p>Balance:</p>
+
               </div>
             </div>
           </div>
