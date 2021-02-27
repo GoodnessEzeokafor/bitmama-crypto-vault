@@ -13,3 +13,10 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * ``` mkdir project_name ```
 * ``` cd project_name ```
 * ``` npx create-react-app . ```
+* ``` npm run start ```
+
+## Cloning this project
+* ``` git clone https://github.com/GoodnessEzeokafor/bitmama-crypto-vault.git ```
+* cd project
+* ``` npm install ```
+* ``` npm run start ```
