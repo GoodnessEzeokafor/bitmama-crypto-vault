@@ -7,7 +7,7 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * [Axios](https://www.npmjs.com/package/axios)
 * [Bootstrap](https://getbootstrap.com/)
 * [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware)
-
+* [Javascrip local storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 ## Setting up a new react project
 * ``` mkdir project_name ```
