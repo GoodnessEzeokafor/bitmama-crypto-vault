@@ -6,3 +6,10 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * [ReactJs](https://reactjs.org/)
 * [Axios](https://www.npmjs.com/package/axios)
 * [Bootstrap](https://getbootstrap.com/)
+* [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware)
+
+
+## Setting up a new react project
+* ``` mkdir project_name ```
+* ``` cd project_name ```
+* ``` npx create-react-app . ```
