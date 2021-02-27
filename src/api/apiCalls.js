@@ -9,7 +9,7 @@ export const createBtcAddress =async() => {
     coin:"tbtc"
   }
     try{
-        return await axios.post("/v1/address",body,{
+        return await axios.post(apiLink,body,{
             headers: {
                 'Content-Type': 'application/json',
                 'token': `e660e9ac4fceb613e9da51052`
