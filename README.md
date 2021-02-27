@@ -23,6 +23,8 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * ``` npm install ```
 * ``` npm run start ```
 
+# token 
+* 
 ## Deploy on heroku
 * heroku create $APP_NAME --buildpack mars/create-react-app
 * git push heroku master/main
@@ -30,7 +32,7 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 # Api (Bitmama Enterprise)
 * Api Url https://enterprise-api-staging.bitmama.io
 * [Documentation](http://developers.bitmama.io/)
-
+* token  e660e9ac4fceb613e9da51052
 
 # Get test btc
 * https://testnet-faucet.mempool.co/
