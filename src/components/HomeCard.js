@@ -1,4 +1,6 @@
+// import {NotificationContainer, NotificationManager} from 'react-notifications';
 import {createBtcAddress} from "../api/apiCalls";
+
 function HomeCard(){
     return(
         <>
@@ -23,7 +25,10 @@ function HomeCard(){
                   onClick = {async(e) => {
                       e.preventDefault();
                       console.log("@creating value")
-                      await createBtcAddress()
+                      const res = await createBtcAddress()
+                      // if(res.code === 201){
+                      //   NotificationManager.success('Success message', 'Title here');
+                      // }
                   }}
               >Generate BTC Adress</button>
               </div>
