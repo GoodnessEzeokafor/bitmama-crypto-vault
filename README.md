@@ -32,6 +32,9 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * [Documentation](http://developers.bitmama.io/)
 
 
+# Get test btc
+* https://testnet-faucet.mempool.co/
+
 ## Screenshots
 ![Screenshot 1](/public/img/bitmamamMeetup.png)
 ![Screenshot 2](/public/img/bitmamaMeetup2.png)
