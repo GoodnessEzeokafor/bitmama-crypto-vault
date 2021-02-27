@@ -8,8 +8,7 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * [Bootstrap](https://getbootstrap.com/)
 * [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware)
 * [Javascrip local storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-* [antd](https://ant.design/docs/react/introduce)
-
+* Heroku
 ## Setting up a new react project
 * ``` mkdir project_name ```
 * ``` cd project_name ```
@@ -22,6 +21,10 @@ This is an ongoing crypto project where I integerated Bitmama Enterprise Api
 * ``` npm install ```
 * ``` npm run start ```
 
+## Deploy on heroku
+* 
 # Api (Bitmama Enterprise)
 * Api Url https://enterprise-api-staging.bitmama.io
 * [Documentation](http://developers.bitmama.io/)
+
+<!-- heroku git:remote -a bitmama-vault -->
